@@ -1,4 +1,4 @@
-### Hey, I'm AMIT. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Amit!](https://bio.link/butolaamit3) 
 =============================
 
 Software Developer/ Testing
